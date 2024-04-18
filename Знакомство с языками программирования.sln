@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01_CSHARP", "01_CSHARP", "{4164C3D2-1C7E-43E9-B699-F1DC3724E09F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson1", "Lesson1", "{A05440CA-DC84-4707-99C5-A5A2B0135636}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task1", "01_CSHARP\Lesson1\Task1\Task1.csproj", "{B552F636-4B8E-4399-B741-4FAB50EC0AE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B552F636-4B8E-4399-B741-4FAB50EC0AE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B552F636-4B8E-4399-B741-4FAB50EC0AE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B552F636-4B8E-4399-B741-4FAB50EC0AE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B552F636-4B8E-4399-B741-4FAB50EC0AE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A05440CA-DC84-4707-99C5-A5A2B0135636} = {4164C3D2-1C7E-43E9-B699-F1DC3724E09F}
+		{B552F636-4B8E-4399-B741-4FAB50EC0AE8} = {A05440CA-DC84-4707-99C5-A5A2B0135636}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {878BAB9B-D691-4226-ACBD-A9CC678F40A1}
+	EndGlobalSection
+EndGlobal
