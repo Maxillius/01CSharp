@@ -12,3 +12,4 @@ C:\Users\HYPERPC\Desktop\ForCSharp\Знакомство с языками про
 C:\Users\HYPERPC\Desktop\ForCSharp\Знакомство с языками программирования\01_CSHARP\Lesson1\Task1\obj\Debug\net8.0\Task1.pdb
 C:\Users\HYPERPC\Desktop\ForCSharp\Знакомство с языками программирования\01_CSHARP\Lesson1\Task1\obj\Debug\net8.0\Task1.genruntimeconfig.cache
 C:\Users\HYPERPC\Desktop\ForCSharp\Знакомство с языками программирования\01_CSHARP\Lesson1\Task1\obj\Debug\net8.0\ref\Task1.dll
+C:\Users\HYPERPC\Desktop\ForCSharp\Знакомство с языками программирования\01_CSHARP\Lesson1\Task1\obj\Debug\net8.0\Task1.sourcelink.json

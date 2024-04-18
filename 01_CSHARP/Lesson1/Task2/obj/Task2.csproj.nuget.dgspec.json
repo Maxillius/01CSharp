@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HYPERPC\\Desktop\\ForCSharp\\Знакомство с языками программирования\\01_CSHARP\\Lesson1\\Task2\\Task2.csproj": {}
+    "C:\\Users\\HYPERPC\\Desktop\\ForCSharp\\Знакомство с языками программирования\\01_CSHARP\\Lesson1\\task2\\Task2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HYPERPC\\Desktop\\ForCSharp\\Знакомство с языками программирования\\01_CSHARP\\Lesson1\\Task2\\Task2.csproj": {
+    "C:\\Users\\HYPERPC\\Desktop\\ForCSharp\\Знакомство с языками программирования\\01_CSHARP\\Lesson1\\task2\\Task2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HYPERPC\\Desktop\\ForCSharp\\Знакомство с языками программирования\\01_CSHARP\\Lesson1\\Task2\\Task2.csproj",
+        "projectUniqueName": "C:\\Users\\HYPERPC\\Desktop\\ForCSharp\\Знакомство с языками программирования\\01_CSHARP\\Lesson1\\task2\\Task2.csproj",
         "projectName": "Task2",
-        "projectPath": "C:\\Users\\HYPERPC\\Desktop\\ForCSharp\\Знакомство с языками программирования\\01_CSHARP\\Lesson1\\Task2\\Task2.csproj",
+        "projectPath": "C:\\Users\\HYPERPC\\Desktop\\ForCSharp\\Знакомство с языками программирования\\01_CSHARP\\Lesson1\\task2\\Task2.csproj",
         "packagesPath": "C:\\Users\\HYPERPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HYPERPC\\Desktop\\ForCSharp\\Знакомство с языками программирования\\01_CSHARP\\Lesson1\\Task2\\obj\\",
+        "outputPath": "C:\\Users\\HYPERPC\\Desktop\\ForCSharp\\Знакомство с языками программирования\\01_CSHARP\\Lesson1\\task2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HYPERPC\\AppData\\Roaming\\NuGet\\NuGet.Config"
